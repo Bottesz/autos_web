@@ -18,6 +18,7 @@ A kiemelt termék mellett megjelenik egy bal és egy jobb léptető gomb, amivel
 ## ALkalmazott függvények
 
 1. tablazatOsszeallit(lista) --> txt - összeállítja a html kódot egy szöveges formátumban, ugy hogy minden sor végén legyen egy kuka
+2. kartyaosszeallit(lista,szuroszoveg)
 2. keres(lista, szuroszoveg);-> beirt auto nev alapján keres
 3. keresar(lista, szuroszoveg); -> beirt ár szerint szerint keres
 4. kosarba(lista); -> ha rányomunk a kosárba gombra akkor átvisz minket a megrendelések oldara
